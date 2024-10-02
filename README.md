@@ -11,8 +11,7 @@ In recent years Club Penguin private servers have become a bit of a nightmare, e
 
 Though I for the most part have come to terms with this, I have realised that most of the time I'm only playing for the minigames anyway. So I thought why not just have a local collection of the games that I can always play *(until I dunno disney sues me or somethin)* and sure I could simply run a local flash player but what is the fun of that.
 
-## Used Addons![39](https://github.com/user-attachments/assets/1ad53540-61a6-46e2-af42-87e7e9b9bd1b)
-
+## Used Addons
 
 Below is a list of addons currently used in the project.
 
