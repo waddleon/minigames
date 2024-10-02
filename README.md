@@ -11,7 +11,8 @@ In recent years Club Penguin private servers have become a bit of a nightmare, e
 
 Though I for the most part have come to terms with this, I have realised that most of the time I'm only playing for the minigames anyway. So I thought why not just have a local collection of the games that I can always play *(until I dunno disney sues me or somethin)* and sure I could simply run a local flash player but what is the fun of that.
 
-## Used Addons
+## Used Addons![39](https://github.com/user-attachments/assets/1ad53540-61a6-46e2-af42-87e7e9b9bd1b)
+
 
 Below is a list of addons currently used in the project.
 
@@ -30,7 +31,7 @@ Not only that but by using a game engine like Godot lowers the skill barrier for
 
 <!-- Below are refs for all the links to keep this looking kinda clean -->
 
-[logo]: https://github.com/user-attachments/assets/45c5f492-0532-4ad3-ada2-15ae38b5559a
+[logo]: https://github.com/user-attachments/assets/a7ce1307-44a1-4d32-a2ee-3579080589fc
 
 [TODO-L]: https://godotengine.org/asset-library/asset/1327
 [TODO-C]: https://godotengine.org/asset-library/asset?user=OrigamiPete
