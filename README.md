@@ -30,7 +30,7 @@ Not only that but by using a game engine like Godot lowers the skill barrier for
 
 <!-- Below are refs for all the links to keep this looking kinda clean -->
 
-[logo]: https://raw.githubusercontent.com/waddleon/minigames/refs/heads/main/icon.svg "Club Penguin Controller"
+[logo]: https://camo.githubusercontent.com/fc0925287a420fe6edf12b401f560afd15512c6c416c05ae838cfc3b0f120db9/68747470733a2f2f7669676e657474652e77696b69612e6e6f636f6f6b69652e6e65742f636c756270656e6775696e2f696d616765732f642f64642f47616d655f456d6f7469636f6e2e504e472f7265766973696f6e2f6c61746573742f7363616c652d746f2d77696474682d646f776e2f3330
 
 [TODO-L]: https://godotengine.org/asset-library/asset/1327
 [TODO-C]: https://godotengine.org/asset-library/asset?user=OrigamiPete
