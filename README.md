@@ -1,6 +1,13 @@
-# Club Penguin Minigames ![text][logo]
+# ![text][logo] Club Penguin Minigames
 
-Port of all the classic Club Penguin minigames from flash to Godot.
+Port of all the classic Club Penguin minigames from flash to Godot.  
+>[!IMPORTANT] The current plan is mostly to focus on the single player, though perhaps local multiplayer for some of the game modes is something I will look into.
+
+## Why did this start?
+
+In recent years Club Penguin private servers have become a bit of a nightmare, espically in terms of longevity. A server will appear and then be gone just as quickly as it arrived. This has led to making it harder to invest in a server with the fear of it being gone by the next time they try to log on.
+
+Though I for the most part have come to terms with this, I have realised that most of the time I'm only playing for the minigames anyway. So I thought why not just have a local collection of the games that I can always play *(until I dunno disney sues me or somethin)* and sure I could simply run a local flash player but what is the fun of that.
 
 ## Used Addons
 
