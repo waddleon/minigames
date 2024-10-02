@@ -1,4 +1,4 @@
-# ![text][logo] Club Penguin Minigames
+# Club Penguin Minigames ![text][logo]
 
 Port of all the classic Club Penguin minigames from flash to Godot.
 
