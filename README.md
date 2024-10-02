@@ -1,7 +1,9 @@
 # ![text][logo] Club Penguin Minigames
 
 Port of all the classic Club Penguin minigames from flash to Godot.  
->[!IMPORTANT] The current plan is mostly to focus on the single player, though perhaps local multiplayer for some of the game modes is something I will look into.
+
+> [!IMPORTANT]
+> The current plan is mostly to focus on the single player, though perhaps local multiplayer for some of the game modes is something I will look into.
 
 ## Why did this start?
 
