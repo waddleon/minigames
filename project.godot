@@ -17,12 +17,11 @@ config/icon="res://assets/icon.svg"
 
 [autoload]
 
-ImGuiRoot="*res://addons/imgui-godot/data/ImGuiRoot.tscn"
 DiscordRPCLoader="*res://addons/discord-rpc-gd/nodes/discord_autoload.gd"
 
 [editor_plugins]
 
-enabled=PackedStringArray("res://addons/Todo_Manager/plugin.cfg", "res://addons/discord-rpc-gd/plugin.cfg", "res://addons/imgui-godot/plugin.cfg")
+enabled=PackedStringArray("res://addons/Todo_Manager/plugin.cfg", "res://addons/discord-rpc-gd/plugin.cfg")
 
 [file_customization]
 
